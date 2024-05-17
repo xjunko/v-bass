@@ -4,6 +4,9 @@ small api library for the awesome [un4seen's BASS](https://www.un4seen.com/) aud
 # disclaimer
 this does not cover the whole spec of the api, it only covers what i need for my [osu! reimplementation](https://github.com/xjunko/kurarin) made in v.
 
+# install
+`v install https://github.com/xjunko/v-bass`
+
 # setup
 im running this on arch linux but anything linux or unix _should_ work.
 
